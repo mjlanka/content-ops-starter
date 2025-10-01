@@ -13,15 +13,6 @@ sections:
 
       ***長年の経験と実績をもとに、安心してご利用いただける品質の製品を、お客様のニーズに合わせてご提供しております”***
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: もっと見る
         altText: ''
         url: /
