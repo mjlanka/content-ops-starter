@@ -728,5 +728,6 @@ sections:
 seo:
   type: Seo
   metaDescription: 安心してご利用いただける品質の製品を
+  metaTitle: Home- Mjlanka Co.LTD
 type: PageLayout
 ---
