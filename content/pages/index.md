@@ -29,7 +29,7 @@ sections:
       type: ImageBlock
     badge:
       label: ''
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
