@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: エムジェイランカ
+    subtitle: エムジェイランカ有限会社
     text: |
       ***私たちは愛知県日進市を拠点に、20年以上にわたり中古農業機械および中古船外機の売買を行ってまいりました。***
 
