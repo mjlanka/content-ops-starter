@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutoria
+      - label: もっと見る
         altText: ''
         url: /
         showIcon: true
