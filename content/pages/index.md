@@ -727,5 +727,6 @@ sections:
     type: FeaturedItemsSection
 seo:
   type: Seo
+  metaDescription: 安心してご利用いただける品質の製品を
 type: PageLayout
 ---
