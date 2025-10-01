@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 中古重機、農機買取販売
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      私たちは愛知県日進市を拠点に、20年以上にわたり中古農業機械および中古船外機の売買を行ってまいりました。
+
+      長年の経験と実績をもとに、安心してご利用いただける品質の製品を、お客様のニーズに合わせてご提供しております
     actions:
       - label: Get started
         altText: ''
