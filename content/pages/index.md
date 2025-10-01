@@ -726,9 +726,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Home - MJ lanka Co.Ltd
-  metaDescription: ''
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
