@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: 中古重機、農機買取販売
+    subtitle: エムジェイランカ
     text: |
       ***私たちは愛知県日進市を拠点に、20年以上にわたり中古農業機械および中古船外機の売買を行ってまいりました。***
 
