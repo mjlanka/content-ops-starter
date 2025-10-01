@@ -24,7 +24,7 @@ sections:
         type: Link
     media:
       url: /images/IMG_2326.JPG
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
